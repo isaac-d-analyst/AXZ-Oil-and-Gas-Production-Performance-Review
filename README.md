@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 The Business Context
+##  The Business Context
 
 AXZ Oil and Gas Production Company launched operations across four rig locations
 in the Niger Delta region — Brass, Ekeremor, Nembe, and Southern Ijaw. Four weeks
@@ -18,7 +18,7 @@ gives leadership a clear operational picture — by location, by KPI, and by wee
 
 ---
 
-## ❗ The Business Problem
+## The Business Problem
 
 Management set four performance targets at the start of operations. Without an
 analytical layer on top of the weekly data, they had no way to:
@@ -33,7 +33,7 @@ answer them.
 
 ---
 
-## 🎯 Performance Targets
+## Performance Targets
 
 | Target | Metric | Threshold |
 |--------|--------|-----------|
@@ -44,7 +44,7 @@ answer them.
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 | Property | Detail |
 |----------|--------|
@@ -74,7 +74,7 @@ Quality Issues, Production Cost (₦), Training Hours
 
 ---
 
-## 🏭 Performance by Location
+## Performance by Location
 
 | Location | UPH | CPU | UPI | Training | Employees |
 |---------|-----|-----|-----|---------|----------|
@@ -85,7 +85,7 @@ Quality Issues, Production Cost (₦), Training Hours
 
 ---
 
-## 🔗 Training & Working Hours Impact (Correlation Analysis)
+## Training & Working Hours Impact (Correlation Analysis)
 
 | Relationship | r Value | Strength | What It Means |
 |-------------|---------|----------|---------------|
@@ -98,7 +98,7 @@ Quality Issues, Production Cost (₦), Training Hours
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 **1. The headline UPH metric is misleading**
 Production volume is the only target being met. Cost is 19.75% over budget and
@@ -177,7 +177,7 @@ allow analysis to be segmented by working hours band across all pages.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Extend dataset to 8–12 weeks for trend analysis
 - Build predictive model using training/hours to forecast KPI outcomes
@@ -222,4 +222,4 @@ design — all grounded in a real business brief with specific management questi
 
 ---
 
-*AXZ Oil and Gas Production Company | SkillAhead Analytics | Power BI | Weeks 1–4*
+*AXZ Oil and Gas Production Company | SkillAhead Analytics | Power BI |*
