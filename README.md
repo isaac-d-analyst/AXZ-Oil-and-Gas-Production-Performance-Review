@@ -62,6 +62,8 @@ Quality Issues, Production Cost (₦), Training Hours
 
 ## 📈 Overall KPIs (4-Week Summary)
 
+*These cards are averages across the 452 employee-weeks (a week with no quality issues counts as UPI 0). On a totals basis (total ÷ total) the overall figures are UPH 11.11, CPU ₦773 (3.1% over target) and UPI 183 (26.8% short). Correlations are calculated across the 113 employees' four-week averages.*
+
 | KPI | Achieved | Target | Status |
 |-----|---------|--------|--------|
 | UPH | 11.02 | 11.0 | ✅ MET (+0.19%) |
@@ -75,6 +77,8 @@ Quality Issues, Production Cost (₦), Training Hours
 ---
 
 ## Performance by Location
+
+*Location figures below are totals-based (total ÷ total). The dashboard's location bars use averages per employee-week (for example Ekeremor CPU ₦1,235 and Brass UPI 314), which changes which targets each location meets: Brass meets all four, and Southern Ijaw none, on that method.*
 
 | Location | UPH | CPU | UPI | Training | Employees |
 |---------|-----|-----|-----|---------|----------|
@@ -101,17 +105,16 @@ Quality Issues, Production Cost (₦), Training Hours
 ## Key Insights
 
 **1. The headline UPH metric is misleading**
-Production volume is the only target being met. Cost is 19.75% over budget and
-every single location is failing the quality standard. Management should not
+Production volume is the only target being met. On the dashboard's measure cost is 19.75% over budget (3.1% on a totals basis), and on a totals basis every location is failing the quality standard. Management should not
 declare operations healthy based on UPH alone.
 
 **2. Ekeremor is the network's most critical underperformer**
-The only location failing all four targets simultaneously. Its CPU of ₦1,009
+Failing all four targets on both ways of measuring (Southern Ijaw also fails all four on the dashboard's averaging method). Its CPU of ₦1,009
 represents an estimated ₦14.2M in excess costs over four weeks. Its UPI of 122
 means quality failures are occurring twice as frequently as management expects.
 
 **3. Brass proves the targets are achievable**
-Meeting three of four targets with a fourth just 1.3% short — Brass demonstrates
+Meeting three of four targets on a totals basis (UPI 246.7, just 1.3% short) and all four on the dashboard's method — Brass demonstrates
 that the performance standards are realistic. The question is not whether they
 can be met. It is what the other locations need to change.
 
